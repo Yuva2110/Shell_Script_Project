@@ -29,6 +29,8 @@ This script automates the process of listing various resources in an AWS account
    ```bash
    aws configure
    ```
+   ![shell](https://github.com/user-attachments/assets/5d2fcdf0-d581-42b3-a31d-d7cde81e264b)
+
 
 ## Usage
 
